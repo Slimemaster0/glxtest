@@ -4,3 +4,5 @@
 [The course I am following](https://open.gl/)
 
 [The most populer OpenGL course](https://learnopengl.com/)
+
+[Red brick texture](https://polyhaven.com/a/red_brick)
